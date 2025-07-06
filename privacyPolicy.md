@@ -1,8 +1,8 @@
 # 隐私政策 / Privacy Policy
 
-感谢您使用“目禅”App（以下简称“本应用”）。我们非常重视您的隐私和数据安全。本隐私政策旨在说明我们如何收集、使用、存储和保护您的信息。
+感谢您使用“Eyora”App（以下简称“本应用”）。我们非常重视您的隐私和数据安全。本隐私政策旨在说明我们如何收集、使用、存储和保护您的信息。
 
-Thank you for using the “目禅” App (hereinafter referred to as "the App"). We take your privacy and data security seriously. This Privacy Policy explains how we collect, use, store, and protect your information.
+Thank you for using the “Eyora” App (hereinafter referred to as "the App"). We take your privacy and data security seriously. This Privacy Policy explains how we collect, use, store, and protect your information.
 
 ## 信息收集 / Information Collection
 
